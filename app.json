@@ -1,0 +1,12 @@
+{
+  "name": "react-native-serverless",
+  "displayName": "react-native-serverless",
+  "expo": {
+    "name": "react-native-serverless",
+    "slug": "react-native-serverless",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
